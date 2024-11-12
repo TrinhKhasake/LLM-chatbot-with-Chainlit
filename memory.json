@@ -254,5 +254,69 @@
     {
         "role": "assistant",
         "content": "No problem! Here\u2019s our menu for you to choose from:\n\n### Soft Drinks\n- Coke, Sprite, Fanta (Can) - $1.50\n- Diet Coke (Can) - $1.50\n- Water Bottle (500 ml) - $1.00\n- Juice Box (Apple, Orange, Cranberry) - $1.50\n\n### Energy Drinks\n- Red Bull (Can) - $2.50\n- Number 1 (Can) - $1.50\n- Sting Yellow (Bottle) - $1.50\n- Sting Red (Bottle) - $2.00\n\n### Smoothies\n- Mango Smoothie (12 oz) - $4.99\n- Berry Smoothie (12 oz) - $4.99\n- Banana Smoothie (12 oz) - $4.99\n\n### Coffee & Tea\n- Regular Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Decaf Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Green Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Herbal Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n\n### Milkshakes\n- Chocolate Milkshake (12 oz) - $3.99\n- Vanilla Milkshake (12 oz) - $3.99\n- Strawberry Milkshake (12 oz) - $3.99\n\n### Specialty Drinks\n- Protein Shake (Chocolate, Vanilla, Berry) - $5.99\n- Electrolyte Solution (500 ml) - $3.99 \n\nLet me know what you'd like to order!"
+    },
+    {
+        "role": "user",
+        "content": "who am i"
+    },
+    {
+        "role": "assistant",
+        "content": "Hey there! I'm here to help you order drinks and provide some tasty recipes if you're interested. What drink would you like to order today?"
+    },
+    {
+        "role": "user",
+        "content": "who am i\n\n"
+    },
+    {
+        "role": "assistant",
+        "content": "I\u2019m not sure who you are, but I\u2019m here to assist you with your drink orders! If you\u2019d like to share your name or what you\u2019re looking for, I\u2019d be happy to help. What drink are you in the mood for?"
+    },
+    {
+        "role": "user",
+        "content": "i am sakele"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Sakele! It's great to meet you! What drink would you like to order today?"
+    },
+    {
+        "role": "user",
+        "content": "i am sake"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it, Sake! Are you looking to order some sake, or would you like something else? If you want the recipe for sake, I can provide that too! Let me know what you prefer!"
+    },
+    {
+        "role": "user",
+        "content": "who am i"
+    },
+    {
+        "role": "assistant",
+        "content": "You're Sakele! But it seems like you might be referring to \"sake\" as a drink. If you're looking for something specific or need help with a drink order, just let me know!"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hey there! \ud83d\ude0a What drink would you like to order today?"
+    },
+    {
+        "role": "user",
+        "content": "hi, im sake"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Sake! How can I help you today? What drink would you like to order?"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hey there! I'm Drinkify, your friendly drink assistant. What drink would you like to order today? \ud83c\udf79"
     }
 ]
