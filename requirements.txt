@@ -1,4 +1,5 @@
 chainlit
 openai
 python-dotenv
+llama_index
 -e .
