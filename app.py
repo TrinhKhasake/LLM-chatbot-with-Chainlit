@@ -15,23 +15,6 @@ from llama_index.llms.openai import OpenAI
 from llama_index.agent.openai import OpenAIAgent
 import socket
 
-# Create a UDP socket
-udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-
-# Bind the socket to an IP address and port
-host = '127.0.0.1'
-port = 8000
-udp_socket.bind((host, port))
-
-print(f"UDP socket bound to {host}:{port}")
-
-# Receive data
-while True:
-    data, addr = udp_socket.recvfrom(1024)  # Buffer size is 1024 bytes
-    print(f"Received message: {data.decode()} from {addr}")
-    udp_socket.sendto(b"Message received", addr)
-
-
 storage_context = StorageContext.from_defaults(
         persist_dir="./storage/"
     )
@@ -221,3 +204,4 @@ def auth_callback(username: str, password: str):
 
 if __name__ == "_main_":
     cl.run(main)
+
