@@ -334,5 +334,53 @@
     {
         "role": "assistant",
         "content": "Of course! Here's our drinks menu for you:\n\n### Soft Drinks\n- Coke, Sprite, Fanta (Can) - $1.50\n- Diet Coke (Can) - $1.50\n- Water Bottle (500 ml) - $1.00\n- Juice Box (Apple, Orange, Cranberry) - $1.50\n\n### Energy Drinks\n- Red Bull (Can) - $2.50\n- Number 1 (Can) - $1.50\n- Sting Yellow (Bottle) - $1.50\n- Sting Red (Bottle) - $2.00\n\n### Smoothies\n- Mango Smoothie (12 oz) - $4.99\n- Berry Smoothie (12 oz) - $4.99\n- Banana Smoothie (12 oz) - $4.99\n\n### Coffee & Tea\n- Regular Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Decaf Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Green Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Herbal Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n\n### Milkshakes\n- Chocolate Milkshake (12 oz) - $3.99\n- Vanilla Milkshake (12 oz) - $3.99\n- Strawberry Milkshake (12 oz) - $3.99\n\n### Specialty Drinks\n- Protein Shake (Chocolate, Vanilla, Berry) - $5.99\n- Electrolyte Solution (500 ml) - $3.99 \n\nLet me know what you'd like to order!"
+    },
+    {
+        "role": "user",
+        "content": "Can you give me the menu? "
+    },
+    {
+        "role": "assistant",
+        "content": "Of course! Here's our drinks menu for you:\n\n## Soft Drinks\n- Coke, Sprite, Fanta (Can) - $1.50\n- Diet Coke (Can) - $1.50\n- Water Bottle (500 ml) - $1.00\n- Juice Box (Apple, Orange, Cranberry) - $1.50\n\n## Energy Drinks\n- Red Bull (Can) - $2.50\n- Number 1 (Can) - $1.50\n- Sting Yellow (Bottle) - $1.50\n- Sting Red (Bottle) - $2.00\n\n## Smoothies\n- Mango Smoothie (12 oz) - $4.99\n- Berry Smoothie (12 oz) - $4.99\n- Banana Smoothie (12 oz) - $4.99\n\n## Coffee & Tea\n- Regular Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Decaf Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Green Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Herbal Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n\n## Milkshakes\n- Chocolate Milkshake (12 oz) - $3.99\n- Vanilla Milkshake (12 oz) - $3.99\n- Strawberry Milkshake (12 oz) - $3.99\n\n## Specialty Drinks\n- Protein Shake (Chocolate, Vanilla, Berry) - $5.99\n- Electrolyte Solution (500 ml) - $3.99 \n\nLet me know what you'd like to order! \ud83d\ude0a"
+    },
+    {
+        "role": "user",
+        "content": "mary pickford"
+    },
+    {
+        "role": "assistant",
+        "content": "It looks like \"Mary Pickford\" isn't on our menu. Would you like the recipe for it? If not, I can help you choose something else from the menu!"
+    },
+    {
+        "role": "user",
+        "content": "yes"
+    },
+    {
+        "role": "assistant",
+        "content": "Great choice! Here's the recipe for a Mary Pickford cocktail:\n\n### Mary Pickford Recipe\n**Ingredients:**\n- 2 oz White Rum\n- 1 oz Pineapple Juice\n- 1/2 oz Maraschino Liqueur\n- 1/2 oz Grenadine\n- A dash of Angostura Bitters (optional)\n\n**Instructions:**\n1. Combine all ingredients in a shaker with ice.\n2. Shake well until chilled.\n3. Strain into a chilled cocktail glass.\n4. Garnish with a cherry or a slice of pineapple if desired.\n\nEnjoy making your Mary Pickford! If you\u2019d like to order something else from the menu, just let me know! \ud83d\ude0a"
+    },
+    {
+        "role": "user",
+        "content": "sloe gin fizz"
+    },
+    {
+        "role": "assistant",
+        "content": "It looks like \"Sloe Gin Fizz\" isn't on our menu either. Would you like the recipe for it? If not, I can help you find something else from our menu!"
+    },
+    {
+        "role": "user",
+        "content": "yes"
+    },
+    {
+        "role": "assistant",
+        "content": "Awesome! Here's the recipe for a Sloe Gin Fizz:\n\n### Sloe Gin Fizz Recipe\n**Ingredients:**\n- 2 oz Sloe Gin\n- 1 oz Fresh Lemon Juice\n- 1/2 oz Simple Syrup\n- Club Soda\n- Lemon slice or cherry for garnish\n\n**Instructions:**\n1. In a shaker, combine the sloe gin, fresh lemon juice, and simple syrup with ice.\n2. Shake well until chilled.\n3. Strain into a glass filled with ice.\n4. Top with club soda.\n5. Garnish with a lemon slice or a cherry.\n\nEnjoy your Sloe Gin Fizz! If you\u2019d like to order something from our menu or need anything else, just let me know! \ud83d\ude0a"
+    },
+    {
+        "role": "user",
+        "content": "Can you give me an energizing and stimulating drink to start my day full of energy?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hey there! I'm Drinkify, your friendly drink assistant! For an energizing and stimulating drink to kickstart your day, I recommend trying an energy drink. \n\nHere are your options:\n- Red Bull (Can) - $2.50\n- Number 1 (Can) - $1.50\n- Sting Yellow (Bottle) - $1.50\n- Sting Red (Bottle) - $2.00\n\nWhich one would you like to order? And how many would you like?"
     }
 ]

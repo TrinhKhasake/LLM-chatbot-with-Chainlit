@@ -4,9 +4,7 @@ from llama_index.readers.file import UnstructuredReader
 from pathlib import Path
 import nltk
 import nest_asyncio
-from llama_index.core import SimpleDirectoryReader
-from llama_index.core import VectorStoreIndex, StorageContext
-from llama_index.core import Settings
+from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, StorageContext, Settings
 from dotenv import load_dotenv
 
 #initiate api key
