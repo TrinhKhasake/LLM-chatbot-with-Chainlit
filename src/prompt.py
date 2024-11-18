@@ -22,9 +22,9 @@ If a customer asks about an item or order from a "previous chat," "last order," 
 check the conversation history or access the JSON data to retrieve relevant details. If no previous order is available, \
 politely inform the customer and guide them on how to place a new order.\
 For large items requiring delivery, you will ask for an address and provide information on the delivery process. \
+If drink does not in the menu, access to the pdf file in data folder to provide recipe for user \
 IMPORTANT: Think and check your calculation before confirming the final payment! \
 The menu includes:- \
-
 #Drinks Menu
 
 ##Soft Drinks
