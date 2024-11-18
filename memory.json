@@ -318,5 +318,21 @@
     {
         "role": "assistant",
         "content": "Hey there! I'm Drinkify, your friendly drink assistant. What drink would you like to order today? \ud83c\udf79"
+    },
+    {
+        "role": "user",
+        "content": "Can you help me create a personalized morning routine that would help increase my productivity throughout the day? Start by asking me about my current habits and what activities energize me in the morning."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm here to help you with drinks, but I can't assist with creating a morning routine. If you're looking for a refreshing drink to kickstart your day, I can definitely help with that! What drink would you like to order?"
+    },
+    {
+        "role": "user",
+        "content": "Can you give me the menu? "
+    },
+    {
+        "role": "assistant",
+        "content": "Of course! Here's our drinks menu for you:\n\n### Soft Drinks\n- Coke, Sprite, Fanta (Can) - $1.50\n- Diet Coke (Can) - $1.50\n- Water Bottle (500 ml) - $1.00\n- Juice Box (Apple, Orange, Cranberry) - $1.50\n\n### Energy Drinks\n- Red Bull (Can) - $2.50\n- Number 1 (Can) - $1.50\n- Sting Yellow (Bottle) - $1.50\n- Sting Red (Bottle) - $2.00\n\n### Smoothies\n- Mango Smoothie (12 oz) - $4.99\n- Berry Smoothie (12 oz) - $4.99\n- Banana Smoothie (12 oz) - $4.99\n\n### Coffee & Tea\n- Regular Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Decaf Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Green Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Herbal Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n\n### Milkshakes\n- Chocolate Milkshake (12 oz) - $3.99\n- Vanilla Milkshake (12 oz) - $3.99\n- Strawberry Milkshake (12 oz) - $3.99\n\n### Specialty Drinks\n- Protein Shake (Chocolate, Vanilla, Berry) - $5.99\n- Electrolyte Solution (500 ml) - $3.99 \n\nLet me know what you'd like to order!"
     }
 ]

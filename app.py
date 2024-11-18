@@ -1,19 +1,39 @@
 import chainlit as cl
-from pathlib import Path
 from src.llm import ask_order, messages
 from typing import Optional, Dict
-import json
-import os
-from llama_index.core import SimpleDirectoryReader
-from llama_index.core import VectorStoreIndex, StorageContext
-from llama_index.core import Settings, load_index_from_storage
+import json, os
+from llama_index.core import StorageContext, Settings, load_index_from_storage
 from llama_index.core.tools import QueryEngineTool, ToolMetadata
 from llama_index.core.storage.chat_store import SimpleChatStore
 from llama_index.core.memory import ChatMemoryBuffer
 from llama_index.core.query_engine import SubQuestionQueryEngine
 from llama_index.llms.openai import OpenAI
 from llama_index.agent.openai import OpenAIAgent
-import socket
+
+@cl.set_starters
+async def set_starters():
+    return [
+        cl.Starter(
+            label="Menu",
+            message="Can you give me the menu? ",
+            icon="/public/public/menu.svg",
+        ),
+        cl.Starter(
+            label="Best drink to start your day",
+            message="Can you give me an energizing and stimulating drink to start my day full of energy?",
+            icon="/public/public/sun.svg",
+        ),
+        cl.Starter(
+            label="Best drink after workout",
+            message="Give me a drink to replenish my energy and minerals after I exercise",
+            icon="/public/public/exercise.svg",
+        ),
+        cl.Starter(
+            label="Suitable drink for student",
+            message="Can you give some drink that cheap and fresh for student?",
+            icon="/public/public/student.svg",
+        )
+    ]
 
 storage_context = StorageContext.from_defaults(
         persist_dir="./storage/"
@@ -39,32 +59,6 @@ def load_memory():
 def save_memory(memory):
     with open(MEMORY_FILE, "w") as f:
         json.dump(memory, f, indent=4)
-
-@cl.set_starters
-async def set_starters():
-    # Pre-set topics the user can select from to start the conversation
-    return [
-        cl.Starter(
-            label="Morning routine ideation",
-            message="Can you help me create a personalized morning routine that would help increase my productivity throughout the day? Start by asking me about my current habits and what activities energize me in the morning.",
-            icon="/public/idea.svg",
-        ),
-        cl.Starter(
-            label="Explain superconductors",
-            message="Explain superconductors like I'm five years old.",
-            icon="/public/learn.svg",
-        ),
-        cl.Starter(
-            label="Python script for daily email reports",
-            message="Write a script to automate sending daily email reports in Python, and walk me through how I would set it up.",
-            icon="/public/terminal.svg",
-        ),
-        cl.Starter(
-            label="Text inviting friend to wedding",
-            message="Write a text asking a friend to be my plus-one at a wedding next month. I want to keep it super short and casual, and offer an out.",
-            icon="/public/write.svg",
-        )
-    ]
 
 @cl.on_chat_start
 async def start():
@@ -204,5 +198,3 @@ def auth_callback(username: str, password: str):
 
 if __name__ == "_main_":
     cl.run(main)
-
-
