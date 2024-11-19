@@ -382,5 +382,197 @@
     {
         "role": "assistant",
         "content": "Hey there! I'm Drinkify, your friendly drink assistant! For an energizing and stimulating drink to kickstart your day, I recommend trying an energy drink. \n\nHere are your options:\n- Red Bull (Can) - $2.50\n- Number 1 (Can) - $1.50\n- Sting Yellow (Bottle) - $1.50\n- Sting Red (Bottle) - $2.00\n\nWhich one would you like to order? And how many would you like?"
+    },
+    {
+        "role": "user",
+        "content": "Can you give me the menu? "
+    },
+    {
+        "role": "assistant",
+        "content": "Of course! Here's our drinks menu for you:\n\n### Soft Drinks\n- Coke, Sprite, Fanta (Can) - $1.50\n- Diet Coke (Can) - $1.50\n- Water Bottle (500 ml) - $1.00\n- Juice Box (Apple, Orange, Cranberry) - $1.50\n\n### Energy Drinks\n- Red Bull (Can) - $2.50\n- Number 1 (Can) - $1.50\n- Sting Yellow (Bottle) - $1.50\n- Sting Red (Bottle) - $2.00\n\n### Smoothies\n- Mango Smoothie (12 oz) - $4.99\n- Berry Smoothie (12 oz) - $4.99\n- Banana Smoothie (12 oz) - $4.99\n\n### Coffee & Tea\n- Regular Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Decaf Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Green Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Herbal Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n\n### Milkshakes\n- Chocolate Milkshake (12 oz) - $3.99\n- Vanilla Milkshake (12 oz) - $3.99\n- Strawberry Milkshake (12 oz) - $3.99\n\n### Specialty Drinks\n- Protein Shake (Chocolate, Vanilla, Berry) - $5.99\n- Electrolyte Solution (500 ml) - $3.99 \n\nLet me know what you'd like to order!"
+    },
+    {
+        "role": "user",
+        "content": "who am i"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have access to previous conversations or personal information, so I can't tell who you are. But I'm here to help you with your drink order! What would you like to have today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "I\u2019m not able to see your name or any personal details. But I\u2019d love to help you with your drink order! What would you like to get today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, but I don't have access to your name. How about we start fresh? Hi there! I'm Drinkify, your friendly drink assistant. What drink would you like to order today?"
+    },
+    {
+        "role": "user",
+        "content": "my name is sake"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Sake! What drink would you like to order today? Let me know if you have any preferences for size, flavor, or quantity!"
+    },
+    {
+        "role": "user",
+        "content": "Give me a drink to replenish my energy and minerals after I exercise"
+    },
+    {
+        "role": "assistant",
+        "content": "Great choice, Sake! For replenishing energy and minerals after exercise, I recommend the Electrolyte Solution. It's perfect for hydration and recovery!\n\nWould you like to order one? It's available in a 500 ml bottle for $3.99. Let me know if you'd like to add anything else or if you have any other preferences!"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Sake! Now, would you like to proceed with ordering the Electrolyte Solution for $3.99, or is there something else you'd like?"
+    },
+    {
+        "role": "user",
+        "content": "my name is sake"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Sake! It's great to meet you! What drink would you like to order today? Let me know if you have any preferences for size, flavor, or quantity!"
+    },
+    {
+        "role": "user",
+        "content": "who am i"
+    },
+    {
+        "role": "assistant",
+        "content": "You're Sake! It's nice to chat with you. How can I assist you with your drink order today?"
+    },
+    {
+        "role": "user",
+        "content": "who am i"
+    },
+    {
+        "role": "assistant",
+        "content": "Hey there! I'm your friendly Drinkify bot, here to help you order drinks and provide recipes. What drink would you like to order today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have access to your name, but I'm here to help you with your drink order! What would you like to have today?"
+    },
+    {
+        "role": "user",
+        "content": "hi, my name is sake. What drink do you have?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi Sake! I'm your Drinkify bot. Here's our drink menu for you:\n\n### Soft Drinks\n- Coke, Sprite, Fanta (Can) - $1.50\n- Diet Coke (Can) - $1.50\n- Water Bottle (500 ml) - $1.00\n- Juice Box (Apple, Orange, Cranberry) - $1.50\n\n### Energy Drinks\n- Red Bull (Can) - $2.50\n- Number 1 (Can) - $1.50\n- Sting Yellow (Bottle) - $1.50\n- Sting Red (Bottle) - $2.00\n\n### Smoothies\n- Mango Smoothie (12 oz) - $4.99\n- Berry Smoothie (12 oz) - $4.99\n- Banana Smoothie (12 oz) - $4.99\n\n### Coffee & Tea\n- Regular Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Decaf Coffee (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Green Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n- Herbal Tea (Small, Medium, Large) - $2.00, $3.00, $4.00\n\n### Milkshakes\n- Chocolate Milkshake (12 oz) - $3.99\n- Vanilla Milkshake (12 oz) - $3.99\n- Strawberry Milkshake (12 oz) - $3.99\n\n### Specialty Drinks\n- Protein Shake (Chocolate, Vanilla, Berry) - $5.99\n- Electrolyte Solution (500 ml) - $3.99\n\nWhat would you like to order? Let me know if you have any preferences for size, flavor, or quantity!"
+    },
+    {
+        "role": "user",
+        "content": "I want something cheap and fresh"
+    },
+    {
+        "role": "assistant",
+        "content": "Great choice! For something cheap and fresh, I recommend a Juice Box (Apple, Orange, or Cranberry) for $1.50 or a Water Bottle (500 ml) for $1.00. \n\nWhich one would you like to go for? And do you have a flavor preference for the Juice Box?"
+    },
+    {
+        "role": "user",
+        "content": "Can I get Orange juice?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sure! I'll get you an Orange Juice Box for $1.50. \n\nWould you like to add anything else to your order?"
+    },
+    {
+        "role": "user",
+        "content": "no thanks"
+    },
+    {
+        "role": "assistant",
+        "content": "Alright! So, your order is:\n\n- 1 Orange Juice Box - $1.50\n\nWould you prefer pickup or delivery? If it's delivery, please provide your address!"
+    },
+    {
+        "role": "user",
+        "content": "delivery please"
+    },
+    {
+        "role": "assistant",
+        "content": "Great! Please provide your delivery address so I can confirm it for you."
+    },
+    {
+        "role": "user",
+        "content": "D9, Viet Duc university, Ben Cat, Binh Duong"
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you for the address! Just to confirm, your delivery address is:\n\n**D9, Viet Duc University, Ben Cat, Binh Duong.**\n\nNow, let's summarize your order:\n\n- 1 Orange Juice Box - $1.50\n\n**Total: $1.50**\n\nShall I proceed with the payment?"
+    },
+    {
+        "role": "user",
+        "content": "of course"
+    },
+    {
+        "role": "assistant",
+        "content": "Awesome! Please provide your payment details so I can process the order."
+    },
+    {
+        "role": "user",
+        "content": "can I pay by cash?"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, you can pay by cash upon delivery! \n\nSo, just to recap your order:\n\n- 1 Orange Juice Box - $1.50\n- Payment method: Cash upon delivery\n\nYour order will be on its way to **D9, Viet Duc University, Ben Cat, Binh Duong**. \n\nThank you for your order, Sake! Enjoy your drink! If you need anything else, just let me know!"
+    },
+    {
+        "role": "user",
+        "content": "what am I order before"
+    },
+    {
+        "role": "assistant",
+        "content": "It looks like this is your first order with me today! You ordered:\n\n- 1 Orange Juice Box - $1.50\n\nIf you need help with anything else or want to place a new order, just let me know!"
+    },
+    {
+        "role": "user",
+        "content": "what is my address?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your delivery address is:\n\n**D9, Viet Duc University, Ben Cat, Binh Duong.**\n\nIf you need any changes or have more questions, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "hi, can I order ramos gin fizz"
+    },
+    {
+        "role": "assistant",
+        "content": "The Ramos Gin Fizz isn't on our drink menu. Would you like the recipe for it? If not, I can help you with something else from our menu!"
+    },
+    {
+        "role": "user",
+        "content": "so sad:((( can you give me the recipe?"
+    },
+    {
+        "role": "assistant",
+        "content": "Of course! Here's the recipe for a Ramos Gin Fizz:\n\n### Ramos Gin Fizz Recipe\n\n**Ingredients:**\n- 2 oz Gin\n- 1 oz Heavy Cream\n- 1/2 oz Fresh Lemon Juice\n- 1/2 oz Fresh Lime Juice\n- 1/2 oz Simple Syrup\n- 1 Egg White\n- 2 dashes Orange Flower Water\n- Club Soda\n- Ice\n\n**Instructions:**\n1. In a shaker, combine the gin, heavy cream, lemon juice, lime juice, simple syrup, egg white, and orange flower water.\n2. Dry shake (without ice) for about 15 seconds to emulsify the egg white.\n3. Add ice to the shaker and shake vigorously for another 30 seconds.\n4. Strain into a chilled glass (preferably a highball or Collins glass).\n5. Top with club soda to fill the glass.\n6. Garnish with a slice of lemon or a cherry if desired.\n\nEnjoy making your Ramos Gin Fizz! If you need anything else, just let me know!"
+    },
+    {
+        "role": "user",
+        "content": " what is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, but I don't have access to your name. However, I'm here to help you with your drink order! What drink would you like to order today?"
     }
 ]
